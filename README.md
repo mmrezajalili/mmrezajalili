@@ -1,4 +1,4 @@
 ## سید محمدرضا جلیلی 👋
 
 
-<img align="center" src="https://user-image.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg"
+<img align="center" src="https://github.com/user-attachments/assets/268957f3-c8f4-404d-ac18-369f9545d55a"
