@@ -14,4 +14,4 @@
 <a herf="https://www.instagram.com/mmreza.jalili?igsh=MWNwODNhbjJ1NnBncA=="><img src="https://github.com/mmrezajalili/mmrezajalili/blob/main/image/icons8-insta-50.png?raw=true"></a>
 
 <h2 align="right"> در حال حاضر دارم اینارو یاد میگیرم🌴  </h2>
-<h3 aligh="left"> SQL | 30% </h3> <imgsrc="https://github.com/mmrezajalili/mmrezajalili/blob/main/image/bar.png?raw=true">height="150px" width=16px">
+<h3 aligh="left"> SQL | 30% </h3> <imgsrc="https://github.com/mmrezajalili/mmrezajalili/blob/main/image/bar.png?raw=true" height="16px" width=150px">
